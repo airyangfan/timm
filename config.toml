@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://travelinmymind.fr"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
+title = "Travel in My Mind"
 copyright = "This is a customized copyright."
 theme = "diary"
 # googleAnalytics = "UA-123-45"
@@ -19,7 +19,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "TIMM"
 enableGitalk = true
 
 # Twitter Card and Open Graph settings
